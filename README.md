@@ -1,2 +1,4 @@
 # data-science-assign
-data science assignment
+assignment -1
+
+linear Regression using iris dataset
